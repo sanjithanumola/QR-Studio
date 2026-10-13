@@ -1,0 +1,6 @@
+{
+  "name": "QR Studio",
+  "description": "Professional QR code generator and customization studio. Create, style, preview, and download custom QR codes with logos, custom corners, colors, and print sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
